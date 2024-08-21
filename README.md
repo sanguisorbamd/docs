@@ -5,4 +5,4 @@ https://docs.google.com/spreadsheets/d/1lwtp1gVSV1g00gM1HWUGDYw0ffVxtfE5_DvEOuAw
 
 Тест-кейсы: https://app.qase.io/project/G8?suite=22&previewMode=side 
 
-[G8-2024-08-20.pdf](https://github.com/user-attachments/files/16678057/G8-2024-08-20.pdf)
+[Тест-кейсы в формате .pdf](https://github.com/user-attachments/files/16700885/G8-2024-08-21.pdf)
