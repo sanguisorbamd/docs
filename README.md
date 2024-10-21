@@ -1,6 +1,5 @@
 # Тестовая документация
 
-Тест-кейсы: https://app.qase.io/project/G8?suite=22&previewMode=side 
 
 [Тест-кейсы в формате .pdf](https://github.com/user-attachments/files/16720622/G8-2024-08-23.pdf)
 
